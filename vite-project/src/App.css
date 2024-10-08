@@ -4,3 +4,25 @@
   padding: 2rem;
   text-align: center;
 }
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-style: italic;
+}
+
+img {
+  width: 200px;
+  border-radius: 20px;
+}
